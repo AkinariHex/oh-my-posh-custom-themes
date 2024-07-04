@@ -28,10 +28,7 @@
             },
             "template": " \ue795 {{ .Name }}"
           },
-          {
-        "alignment": "left",
-        "segments": [
-          {
+            {
             "foreground": "#61AFEF",
             "properties": {
               "style": "full"
@@ -39,10 +36,7 @@
             "style": "plain",
             "template": "\ue5ff {{ .Path }}",
             "type": "path"
-          }
-        ],
-        "type": "prompt"
-      },
+          },
           {
             "foreground": "#F3C267",
             "foreground_templates": [
